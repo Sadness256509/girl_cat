@@ -18,7 +18,11 @@
 </main>
 <footer>
 <body>
-    <img src="4.jpg" alt="htlm" width="256" height="256">
+   <img src="4.jpg" alt="htlm" width="400" height="400">
+<video width="420" height="340" controls>
+    <source src="5.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 </body>
 <p>↑© 2025 Все права защищены Алей!!!↑</p>
 <body>
