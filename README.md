@@ -1,5 +1,5 @@
 <html lang="ru">
-<head><link rel="stylesheet"type=”text/css” href=”” />
+<head>
 <meta charset="UTF-8">
 <meta name="сайт" content="width=device-width, initial-scale=1.0">
 <title>Мой не первый сайт</title>
