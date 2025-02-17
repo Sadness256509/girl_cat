@@ -1,4 +1,5 @@
 <html lang="ru">
+<head>
 <meta charset="UTF-8">
 <meta name="сайт" content="width=device-width, initial-scale=1.0">
 <title>Мой не первый сайт</title>
@@ -11,6 +12,9 @@
 <p>Это мой первый веб-сайт для Влада!</p>
 </main>
 <footer>
+<body>
+    <img src="4.jpg" alt="htlm" width="256" height="256">
+</body>
 <p> <span style=”color:#FF33CC;”> © 2025 Все права защищены Алей!!! </span></p>
 <body>
     <img src="1.jpg" alt="htlm" > 
