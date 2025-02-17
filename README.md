@@ -20,7 +20,7 @@
 <body>
     <img src="4.jpg" alt="htlm" width="256" height="256">
 </body>
-<p>© 2025 Все права защищены Алей!!!</p>
+<p>↑© 2025 Все права защищены Алей!!!↑</p>
 <body>
     <img src="1.jpg" alt="htlm" > 
     <img src="2.jpg" alt="htlm" > 
