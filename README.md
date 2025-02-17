@@ -4,6 +4,11 @@
 <meta name="сайт" content="width=device-width, initial-scale=1.0">
 <title>Мой не первый сайт</title>
 </head>
+<style>
+  body {
+    background: radial-gradient(circle, #ff0000, #0000ff);
+  }
+</style>
 <body>
 <header>
 <h1>Добро пожаловать на мой сайт!</h1>
