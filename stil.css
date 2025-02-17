@@ -14,7 +14,6 @@
 <footer>
 <p>  © 2025 Все права защищены Алей!!!</p>
 <body>
-<h1>HTML</h1>
     <img src="1.jpg" alt="htlm" > 
     <img src="2.jpg" alt="htlm" > 
     <img src="3.jpg" alt="htlm" > 
