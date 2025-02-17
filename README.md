@@ -22,6 +22,5 @@
     <img src="3.jpg" alt="htlm" > 
 </body>
 </footer>
-</head>
 </body>
 </html>
