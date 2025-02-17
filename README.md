@@ -12,6 +12,9 @@
 <p>Это мой первый веб-сайт для Влада!</p>
 </main>
 <footer>
+<body>
+    <img src="4.jpg" alt="htlm" width="256" height="256">
+</body>
 <p>  © 2025 Все права защищены Алей!!!</p>
 <body>
     <img src="1.jpg" alt="htlm" > 
