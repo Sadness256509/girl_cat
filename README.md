@@ -42,6 +42,10 @@
 <a href="https://sadness256509.github.io/achievements/">Достжения сервера</a>
 <body>
 </body>
+  <h1>Вот что любит этот человек</h>
+<a href=»ссылка на страницу»>
+    <img src="8.jpg" alt=»html»>
+</a>
 </footer>
 </body>
 </html>
