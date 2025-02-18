@@ -29,7 +29,6 @@
 <a href="https://sadness256509.github.io/server/">Подробности сервера</a>
 </header>
 <main>
-<a href="https://sadness256509.github.io/server/">Подробности сервера</a>
 </main>
 <footer>
 <body>
