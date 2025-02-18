@@ -46,7 +46,5 @@
   <p>↓↓Вот что любит этот человек↓↓</p>
 <body>
 <a href="https://sadness256509.github.io/vove/"><img src="9.jpg" alt="htlm" width="320" height="320" > </a>
+<body>
 </body>
-</footer>
-</body>
-</html>
