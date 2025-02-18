@@ -40,23 +40,6 @@
 </body>
 <p>↑© 2025 Все права защищены Алей!!!↑</p>
 <body>
-    <img src="1.jpg" alt="htlm" > 
-    <img src="2.jpg" alt="htlm" > 
-    <img src="3.jpg" alt="htlm" > 
-    <img src="6.jpg" alt="htlm" >
-<img src="7.jpg" alt="htlm" >
-<img src="8.jpg" alt="htlm" >
-<img src="9.jpg" alt="htlm" >
-<img src="10.jpg" alt="htlm" >
-<img src="11.jpg" alt="htlm" >
-<img src="12.jpg" alt="htlm" >
-<img src="13.jpg" alt="htlm" >
-<img src="14.jpg" alt="htlm" >
-<img src="15.jpg" alt="htlm" >
-<img src="16.jpg" alt="htlm" >
-<img src="17.jpg" alt="htlm" >
-<img src="18.jpg" alt="htlm" >
-<img src="19.jpg" alt="htlm" >
 </body>
 </footer>
 </body>
