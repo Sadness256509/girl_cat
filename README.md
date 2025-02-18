@@ -39,7 +39,7 @@
 </video>
 </body>
 <p>↑© 2025 Все права защищены Алей!!!↑</p>
-<a href="https://https://sadness256509.github.io/achievements/">Достжения сервера</a>
+<a href="//https://sadness256509.github.io/achievements/">Достжения сервера</a>
 <body>
 </body>
 </footer>
