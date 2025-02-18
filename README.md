@@ -42,7 +42,7 @@
 <a href="https://sadness256509.github.io/achievements/">Достжения сервера</a>
    <p>Вот что любит этот человек</p>
 <body>
-<a href="https://sadness256509.github.io/vove/"><img src="8.jpg" alt="html"></a>
+<a href="https://sadness256509.github.io/vove/"><img src="1.jpg" alt="htlm" ></a>
 </body>
 </footer>
 </body>
