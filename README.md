@@ -48,3 +48,4 @@
 <a href="https://sadness256509.github.io/lover/"><img src="9.jpg" alt="htlm" width="320" height="320" > </a>
 <body>
 </body>
+<div class="text">Text</div>
