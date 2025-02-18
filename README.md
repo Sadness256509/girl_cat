@@ -45,7 +45,7 @@
 <a href="https://sadness256509.github.io/love/"><img src="8.jpg" alt="htlm" ></a>
   <p>↓↓Вот что любит этот человек↓↓</p>
 <body>
-<a href="https://sadness256509.github.io/vove/"><img src="9.jpg" alt="htlm" width="320" height="320" ></a>
+<a href="https://sadness256509.github.io/vove/"><img src="9.jpg" alt="htlm" width="320" height="320" > </a>
 </body>
 </footer>
 </body>
