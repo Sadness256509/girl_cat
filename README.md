@@ -28,7 +28,7 @@
 <h1>Добро пожаловать на наш сайт по майнкрафту!</h1>
 </header>
 <main>
-<a href="url">Подробности сервера</a>
+<a href="https://sadness256509.github.io/server/">Подробности сервера</a>
 </main>
 <footer>
 <body>
