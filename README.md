@@ -29,6 +29,7 @@
     <img src="1.jpg" alt="htlm" > 
     <img src="2.jpg" alt="htlm" > 
     <img src="3.jpg" alt="htlm" > 
+    <img src="6.jpg" alt="htlm" >
 </body>
 </footer>
 </body>
