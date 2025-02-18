@@ -42,7 +42,6 @@
 <img src="16.jpg" alt="htlm" >
 <img src="17.jpg" alt="htlm" >
 <img src="18.jpg" alt="htlm" >
-
 <img src="19.jpg" alt="htlm" >
 </body>
 </footer>
