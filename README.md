@@ -40,7 +40,7 @@
 </body>
 <p>↑© 2025 Все права защищены Алей!!!↑</p>
 <a href="https://sadness256509.github.io/achievements/">Достжения сервера</a>
-   <p>Вот что любит этот человек</p>
+   <p>↓↓Вот что любит этот человек↓↓</p>
 <body>
 <a href="https://sadness256509.github.io/love/"><img src="8.jpg" alt="htlm" ></a>
 </body>
