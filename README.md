@@ -18,7 +18,7 @@
 </main>
 <footer>
 <body>
-   <img src="4.jpg" alt="htlm" width="400" height="600">
+   <img src="4.jpg" alt="htlm" width="400" height="500">
 <video width="420" height="340" controls>
     <source src="5.mp4" type="video/mp4">
     Your browser does not support the video tag.
