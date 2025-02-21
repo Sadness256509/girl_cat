@@ -48,6 +48,6 @@
 <a href="https://sadness256509.github.io/lover/"><img src="9.jpg" alt="htlm" width="320" height="320" > </a>
 <p>↓↓Вот что любит этот человек↓↓</p>
 <body>
-  <a href="https://sadness256509.github.io/lovego/"><img src="1.jpg" alt="htlm" width="320" height="320" > </a>
+  <a href="https://sadness256509.github.io/Lovego/"><img src="1.jpg" alt="htlm" width="320" height="320" > </a>
 </body>
 <div class="text">Text</div>
