@@ -52,6 +52,6 @@
 </body>
 <p>↓↓Вот что любит этот человек↓↓</p>
 <body>
-  <a href="https://sadness256509.github.io/Lovego/"><img src="6.jpg" alt="htlm" width="320" height="320" > </a>
+  <a href="https://sadness256509.github.io/lovey/"><img src="6.jpg" alt="htlm" width="320" height="320" > </a>
 </body>
 
